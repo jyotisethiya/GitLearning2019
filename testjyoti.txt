@@ -1,0 +1,19 @@
+supply function ABAP wd
+Hash table
+BDC and call transaction error on different machine
+iView to configure webdynpro application
+Configure workflow on fiori
+
+
+foreign key relationship?
+Pooled vs cluster table
+select query vs FM for data fetch
+Select query vs Class ethd for data fetch
+table and template
+BAPI vs RFC
+lock 
+Match code
+extract datasets and field group
+Set PF status 'Status' interactive reporting
+
+Localizaton of workflow
